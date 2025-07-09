@@ -1,0 +1,5 @@
+sale_id,product_id,region_id,sale_date,quantity,unit_price
+1,P001,R01,2024-01-01,2,150
+2,P002,R02,2024-01-01,5,80
+3,P001,R01,2024-01-02,1,150
+4,P003,R03,2024-01-02,10,50
